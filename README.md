@@ -1,5 +1,6 @@
 # arch-herobrine
 ![](https://komarev.com/ghpvc/?username=arch-herobrine)
+[![](https://img.shields.io/badge/chat-on_discord-7289da.svg?style=flat-square)](https://discord.gg/gstEsq3C8f)
 ## プロフィール
 一般通過中学生。アンテ・デルタ狂。
 node.jsとかhtmlとかはある程度書ける
