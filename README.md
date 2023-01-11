@@ -2,7 +2,7 @@
 ### プロフィール
 一般通過中学生。アンテ・デルタ狂。
 node.jsとかhtmlとかはある程度書ける
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-herobrine&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-herobrine)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arch-herobrine&show_icons=true&theme=radical)
  
