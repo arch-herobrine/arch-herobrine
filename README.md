@@ -7,6 +7,7 @@ node.jsとかhtmlとかはある程度書ける
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arch-herobrine&show_icons=true&theme=radical)
  
+[haruymth](https://github.com/haruymth)氏のパクった((((
 <!--
 **arch-herobrine/arch-herobrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
