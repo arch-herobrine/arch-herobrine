@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### プロフィール
+一般通過中学生。アンテ・デルタ狂。
+node.jsとかhtmlとかはある程度書ける
 <!--
 **arch-herobrine/arch-herobrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
