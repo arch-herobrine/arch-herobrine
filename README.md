@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=arch-herobrine)
 [![](https://img.shields.io/badge/chat-on_discord-7289da.svg?style=flat-square)](https://discord.gg/reject)
 ## プロフィール
-一般通過中学生。アンテ・デルタ狂。</br>
+一般通過高校生。アンテ・デルタ狂。</br>
 node.jsとかhtmlとかはある程度書ける</br>
 もはやクソコード置き場。</br>
 
